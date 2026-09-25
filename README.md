@@ -7,6 +7,12 @@
 
 无需搭建服务器、无需 GeoIP 数据库、无调用限额、无额外隐私困扰的第三方收费 API。只需 Fork 本项目，即可在 1 分钟内拥有一个免费每日 100000 次请求的专属 IP-API，使用案例：[Bettbox](https://github.com/appshubcc/Bettbox) - 首页网络检测Widget。（现已更改为第三方 API ）
 
+Demo（仅作为演示使用，勿用于生产环境）：
+
+https://ipinfo-preview-no-production-environment.appshub.cc/
+
+https://ipinfo-preview-no-production-environment.appshub.cc/json
+
 ---
 
 ## ✨ 核心特性
