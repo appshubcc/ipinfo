@@ -1,7 +1,6 @@
 /**
  * Free IP-API & Geodata powered by Cloudflare Workers
  * Repository: https://github.com/appshubcc/ipinfo
- * License: MIT
  */
 
 const CORS_HEADERS = {
